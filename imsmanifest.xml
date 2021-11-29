@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6W4cx6IfXOV_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Safe Driving - Demo</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Safe_Driving_-_Demo_ORG">
+    <organization identifier="Safe_Driving_-_Demo_ORG">
+      <title>Safe Driving - Demo</title>
+      <item identifier="Safe_Driving_-_Demo_SCO" isvisible="true" identifierref="__6W4cx6IfXOV_course_id_RES">
+        <title>Safe Driving - Demo</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6W4cx6IfXOV_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6YCn0B0flKK_X_80_P_20_129_2007_1128_DX1958_DY1958_CX1510_CY849.jpg" />
+      <file href="mobile/6Zz00r6lofj_80_DX414_DY414_CX322_CY114.png" />
+      <file href="mobile/6o5esQRuwIe_80_DX938_DY938_CX737_CY171.png" />
+      <file href="story_content/6V8E4d1iJzz_44100_48_0.mp3" />
+      <file href="mobile/6pahvhwYy5M_80_DX42_DY42_CX25_CY31.png" />
+      <file href="story_content/6dxHK3mr1WI_44100_48_0.mp3" />
+      <file href="mobile/5toLsHDihNL_80_DX720_DY720_CX94_CY563.png" />
+      <file href="mobile/5t541YHSQ8D_80_DX1738_DY1738_CX1367_CY635.png" />
+      <file href="story_content/5rPZWYSNwfF_44100_48_0.mp3" />
+      <file href="story_content/5yvcAU6z57y_44100_48_0.mp3" />
+      <file href="story_content/5foK1lVYdxc_44100_48_0.mp3" />
+      <file href="mobile/6484Gm7dGGb_80_DX306_DY306_CX240_CY159.png" />
+      <file href="mobile/6ptakamOrci_80_DX442_DY442_CX346_CY182.png" />
+      <file href="story_content/67DNR7itV9r_44100_48_0.mp3" />
+      <file href="story_content/6NCV4rIS7Ln_44100_48_0.mp3" />
+      <file href="story_content/5bg7BPbjMIO_44100_48_0.mp3" />
+      <file href="mobile/5p7ZAXXuwcQ_80_DX1920_DY1920_CX1511_CY849.jpg" />
+      <file href="story_content/6fPQPPkNmm7_44100_48_0.mp3" />
+      <file href="mobile/5urW32WEQgG_80_DX160_DY160_CX125_CY125.png" />
+      <file href="mobile/5Z95uhGkRf2_80_P_0_0_2755_4230_DX1080_DY1080_CX553_CY849.png" />
+      <file href="mobile/5VB62FWYrUE_80_DX66_DY66_CX51_CY51.png" />
+      <file href="story_content/6qKtaJZY1gi_44100_48_0.mp3" />
+      <file href="story_content/6pqfyVAR1ts_44100_48_0.mp3" />
+      <file href="mobile/6gov9gbKO4R_80_DX66_DY66_CX51_CY51.png" />
+      <file href="story_content/6Bmu4fiyqC5_44100_48_0.mp3" />
+      <file href="story_content/6kGtCFECmgE_44100_48_0.mp3" />
+      <file href="mobile/6KzaiSmk1NJ_80_P_18_189_2016_1134_DX1950_DY1950_CX1510_CY849.jpg" />
+      <file href="mobile/5xHfDf8xlqt_80_DX136_DY136_CX107_CY107.png" />
+      <file href="story_content/5X9IEVSfalk_44100_48_0.mp3" />
+      <file href="story_content/6Ln97cHDpSv_44100_48_0.mp3" />
+      <file href="story_content/6nukTJmAfkq_44100_48_0.mp3" />
+      <file href="mobile/5tRrdvvEDL8_80_DX146_DY146_CX113_CY113.png" />
+      <file href="mobile/69CoLGQ7z5j_80_P_719_-23_3137_4236_DX2038_DY2038_CX629_CY849.png" />
+      <file href="story_content/6GHAPknF7OW_44100_48_0.mp3" />
+      <file href="story_content/5pNZjNUVt0N_44100_48_0.mp3" />
+      <file href="story_content/6obTmmk8ZsK_44100_48_0.mp3" />
+      <file href="story_content/6iLRYssduq1_44100_48_0.mp3" />
+      <file href="story_content/6PbNNp0n3So_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/5if3udAbLB7.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fQguVyW1cv.js" />
+      <file href="html5/data/js/5p3Dm0J9Lno.js" />
+      <file href="html5/data/js/5vF2DCRQ6Dp.js" />
+      <file href="html5/data/js/67FPqz1uAZD.js" />
+      <file href="html5/data/js/69n0EoSn5ye.js" />
+      <file href="html5/data/js/6DTmJEa22jR.js" />
+      <file href="html5/data/js/6k1it1JSzZK.js" />
+      <file href="html5/data/js/6kiGZ4jMuQR.js" />
+      <file href="html5/data/js/6U7rpufsOgE.js" />
+      <file href="html5/data/js/6WrdUEw61jD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
